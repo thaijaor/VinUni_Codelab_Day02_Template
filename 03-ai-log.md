@@ -1,6 +1,9 @@
 # 03 — AI Log: dùng AI làm thought-partner
 
-**Học viên:** thaijaor — branch `thai-02894`
+**Học viên:** thaijaor
+**Mã học viên:** 2A202602894
+**Email:** thainguyenhong2204@gmail.com
+**Branch:** `thai-02894`
 **Công cụ:** Claude (Claude Code) chạy trực tiếp trong repo, Gemini API cho phần prototype.
 
 ---

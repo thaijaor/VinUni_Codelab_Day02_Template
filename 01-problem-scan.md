@@ -1,6 +1,8 @@
 # 01 — Problem Scan (Lab 02: AI Product Scoping)
 
 **Học viên:** thaijaor
+**Mã học viên:** 2A202602894
+**Email:** thainguyenhong2204@gmail.com
 **Branch:** `thai-02894`
 **Ngày:** 2026-09-12
 
