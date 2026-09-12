@@ -1,6 +1,6 @@
 # 01 — Problem Scan & Quick Cards (Vin Smart Future)
 
-> **Họ và tên học viên:** Đỗ Tuấn Long
+> **Họ và tên học viên:** Vũ Huy Đô
 > **Đơn vị:** Vin Smart Future (Vingroup)
 > **Mục tiêu:** Quét tìm các cơ hội tối ưu hóa bằng AI (Phase 1 — SCAN) và đánh giá nhanh qua 3 Quick Problem Cards (Phase 2 — QUICK-ASSESS).
 
